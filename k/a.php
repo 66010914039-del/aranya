@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
     <meta charset="UTF-8">
-    <title>งาน K อรัญญา เนื่องคำอินทร์ 66010914039</title>
+    <title>งาน K อรัญญา เนื่องคำอินทร์ (66010914039)</title>
 
     <style>
         body {
