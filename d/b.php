@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1> ฟอร์มรับข้อมูล- อรัญญา เนื่องคำอินทร์ (เกด)</h1>
+<h1> ฟอร์มรับข้อมูล- อรัญญา เนื่องคำอินทร์ </h1>
 
 <form method ="post" action="">
 ชื่อ-สกุล <input type="text" name="fullname" autofocus required> * <br>
